@@ -1,0 +1,35 @@
+input{
+    height: 30px;
+    width: 25%;
+    font-size: 18px;
+    margin:2px;
+    background-color: white;
+    border:1px solid black;
+    border-radius: 10px;
+}
+
+button{
+    height:30px;
+    width: 25%;
+    font-size: 18px;
+    background-color: lightgray;
+    margin:2px;
+    border:1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.login{
+
+
+    background-color: lightblue;
+    height:70%;
+    width:50%;
+    justify-content: none;
+    
+    margin: 200px;
+    padding: 100px;
+    border:3px solid black;
+
+}
+
